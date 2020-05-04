@@ -1,5 +1,3 @@
-import os
-
 from system_information import System_Information as machine
 
 print('\n-----Computer Usage Monitoring-----\n')
